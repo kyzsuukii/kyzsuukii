@@ -9,6 +9,8 @@ how to reach me:
 - *kyzsuukii@gnuweeb.org*
 - *[telegram](t.me/kyzsuki)*
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=kyzsuukii&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=kyzsuukii&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![kyzsuukii](https://count.getloli.com/get/@kyzsuukii)
+
+![Readme Card](https://pixel-profile.vercel.app/api/github-stats?username=kyzsuukii)
